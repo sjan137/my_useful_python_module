@@ -2,6 +2,8 @@ from __future__ import annotations
 from typing import Any, Type
 
 
+"""해당 연결 리스트는 단일 연결 리스트이다."""
+
 class Node:
     """연결 리스트용 노드 클래스"""
 
